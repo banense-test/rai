@@ -1,2 +1,3 @@
-# rai
+# RAI
+
 Readiness AI
